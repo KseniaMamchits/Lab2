@@ -1,0 +1,6 @@
+C:\Users\Ksenia\source\repos\Lab2(4)\Lab2(4)\bin\Debug\Lab2(4).exe.config
+C:\Users\Ksenia\source\repos\Lab2(4)\Lab2(4)\bin\Debug\Lab2(4).exe
+C:\Users\Ksenia\source\repos\Lab2(4)\Lab2(4)\bin\Debug\Lab2(4).pdb
+C:\Users\Ksenia\source\repos\Lab2(4)\Lab2(4)\obj\Debug\Lab2(4).csprojAssemblyReference.cache
+C:\Users\Ksenia\source\repos\Lab2(4)\Lab2(4)\obj\Debug\Lab2(4).exe
+C:\Users\Ksenia\source\repos\Lab2(4)\Lab2(4)\obj\Debug\Lab2(4).pdb

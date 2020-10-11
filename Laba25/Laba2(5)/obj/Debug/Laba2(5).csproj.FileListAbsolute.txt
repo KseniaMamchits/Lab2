@@ -1,0 +1,6 @@
+C:\Users\Ksenia\source\repos\Laba2(5)\Laba2(5)\bin\Debug\Laba2(5).exe.config
+C:\Users\Ksenia\source\repos\Laba2(5)\Laba2(5)\bin\Debug\Laba2(5).exe
+C:\Users\Ksenia\source\repos\Laba2(5)\Laba2(5)\bin\Debug\Laba2(5).pdb
+C:\Users\Ksenia\source\repos\Laba2(5)\Laba2(5)\obj\Debug\Laba2(5).csprojAssemblyReference.cache
+C:\Users\Ksenia\source\repos\Laba2(5)\Laba2(5)\obj\Debug\Laba2(5).exe
+C:\Users\Ksenia\source\repos\Laba2(5)\Laba2(5)\obj\Debug\Laba2(5).pdb
